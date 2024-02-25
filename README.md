@@ -3,7 +3,7 @@
 To Do:
 - EDA
     - [ ] Univariate analysis 
-        - [ ] Visualise feature distribution
+        - [X] Visualise feature distribution
         - [ ] Update column name for Hx radiotherapy (spelling error)
         - [ ] Write a function to create all of the categorical univariate plots that could be used for final visualisations
     - [ ] Multivariate analysis
