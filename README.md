@@ -17,3 +17,4 @@
 
 - Cancer Staging - NCI [WWW Document], 2015. URL https://www.cancer.gov/about-cancer/diagnosis-staging/staging (accessed 7.20.24).
 - Borzooei, S., Briganti, G., Golparian, M. et al. Machine learning for risk stratification of thyroid cancer patients: a 15-year cohort study. Eur Arch Otorhinolaryngol (2023). https://doi.org/10.1007/s00405-023-08299-w
+- Welch Dinauer, C.A., Michael Tuttle, , Robie, D.K., McClellan, D.R., Svec, R.L., Adair, C. and Francis, G.L. (1998), Clinical features associated with metastasis and recurrence of differentiated thyroid cancer in children, adolescents and young adults. Clinical Endocrinology, 49: 619-628. https://doi.org/10.1046/j.1365-2265.1998.00584.x
